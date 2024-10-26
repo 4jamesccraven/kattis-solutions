@@ -82,7 +82,7 @@ def main() -> None:
     print('Writing README.md')
 
     problem_urls = [f'[{name}]({url})' for name, url in zip(problem_names, problem_urls)]
-    solutions = [f'[source 🔗](../solutions/{dir})' for dir in problem_names]
+    solutions = [f'[source 🔗](solutions/{dir})' for dir in problem_names]
 
     w1, w2 = map(max_length, [problem_urls, solutions])
 
