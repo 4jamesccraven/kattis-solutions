@@ -16,7 +16,7 @@ Problems
 | [alien_math](https://open.kattis.com/problems/alienmath)                              | [source 🔗](solutions/alien_math)               |  [![py](images/python.png)]() |
 | [artichoke](https://open.kattis.com/problems/artichoke)                               | [source 🔗](solutions/artichoke)                |  [![py](images/python.png)]() |
 | [babylonian](https://open.kattis.com/problems/babylonian)                             | [source 🔗](solutions/babylonian)               |  [![py](images/python.png)]() |
-| [backspace](https://open.kattis.com/problems/backspace)                               | [source 🔗](solutions/backspace)                |  [![cpp](images/cpp.png)]() [![py](images/python.png)]() |
+| [backspace](https://open.kattis.com/problems/backspace)                               | [source 🔗](solutions/backspace)                |  [![py](images/python.png)]() [![cpp](images/cpp.png)]() |
 | [best_before](https://open.kattis.com/problems/bestbefore)                            | [source 🔗](solutions/best_before)              |  [![py](images/python.png)]() |
 | [champernowneverification](https://open.kattis.com/problems/champernowneverification) | [source 🔗](solutions/champernowneverification) |  [![py](images/python.png)]() |
 | [connect_the_dots](https://open.kattis.com/problems/connectthedots)                   | [source 🔗](solutions/connect_the_dots)         |  [![py](images/python.png)]() |
@@ -24,6 +24,7 @@ Problems
 | [event_planning](https://open.kattis.com/problems/eventplanning)                      | [source 🔗](solutions/event_planning)           |  [![py](images/python.png)]() |
 | [false_security](https://open.kattis.com/problems/falsesecurity)                      | [source 🔗](solutions/false_security)           |  [![py](images/python.png)]() |
 | [genetic_search](https://open.kattis.com/problems/geneticsearch)                      | [source 🔗](solutions/genetic_search)           |  [![py](images/python.png)]() |
+| [grid](https://open.kattis.com/problems/grid)                                         | [source 🔗](solutions/grid)                     |  [![py](images/python.png)]() |
 | [islands](https://open.kattis.com/problems/islands)                                   | [source 🔗](solutions/islands)                  |  [![py](images/python.png)]() |
 | [jolly_jumpers](https://open.kattis.com/problems/jollyjumpers)                        | [source 🔗](solutions/jolly_jumpers)            |  [![py](images/python.png)]() |
 | [morsecodepalindromes](https://open.kattis.com/problems/morsecodepalindromes)         | [source 🔗](solutions/morsecodepalindromes)     |  [![py](images/python.png)]() |
@@ -39,5 +40,5 @@ Problems
 | [simplefactoring](https://open.kattis.com/problems/simplefactoring)                   | [source 🔗](solutions/simplefactoring)          |  [![py](images/python.png)]() |
 | [simplicity](https://open.kattis.com/problems/simplicity)                             | [source 🔗](solutions/simplicity)               |  [![py](images/python.png)]() |
 | [sith](https://open.kattis.com/problems/sith)                                         | [source 🔗](solutions/sith)                     |  [![py](images/python.png)]() |
-| [soda_slurper](https://open.kattis.com/problems/sodaslurper)                          | [source 🔗](solutions/soda_slurper)             |  [![py](images/python.png)]() [![cpp](images/cpp.png)]() |
+| [soda_slurper](https://open.kattis.com/problems/sodaslurper)                          | [source 🔗](solutions/soda_slurper)             |  [![cpp](images/cpp.png)]() [![py](images/python.png)]() |
 | [teacher_evaluation](https://open.kattis.com/problems/teacherevaluation)              | [source 🔗](solutions/teacher_evaluation)       |  [![rs](images/rust.png)]() |
