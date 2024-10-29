@@ -1,3 +1,5 @@
+# NOT A SOLUTION
+
 def find_islands(nums: list[int]) -> int:
     cmp: list[int] = [nums[0]]
     islands: int = 0
