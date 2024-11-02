@@ -14,6 +14,7 @@ Problems
 |---------------------------------------------------------------------------------------|-------------------------------------------------|-----------
 | [adding_words](https://open.kattis.com/problems/addingwords)                          | [source 🔗](solutions/adding_words)             |  [![py](images/python.png)]() |
 | [alien_math](https://open.kattis.com/problems/alienmath)                              | [source 🔗](solutions/alien_math)               |  [![py](images/python.png)]() |
+| [arithmetic](https://open.kattis.com/problems/arithmetic)                             | [source 🔗](solutions/arithmetic)               |  [![py](images/python.png)]() |
 | [artichoke](https://open.kattis.com/problems/artichoke)                               | [source 🔗](solutions/artichoke)                |  [![py](images/python.png)]() |
 | [babylonian](https://open.kattis.com/problems/babylonian)                             | [source 🔗](solutions/babylonian)               |  [![py](images/python.png)]() |
 | [backspace](https://open.kattis.com/problems/backspace)                               | [source 🔗](solutions/backspace)                |  [![py](images/python.png)]() [![cpp](images/cpp.png)]() |
