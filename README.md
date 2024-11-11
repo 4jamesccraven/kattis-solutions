@@ -34,6 +34,7 @@ Problems
 | [npuzzle](https://open.kattis.com/problems/npuzzle)                                   | [source 🔗](solutions/npuzzle)                  |  [![py](images/python.png)]() |
 | [parking](https://open.kattis.com/problems/parking)                                   | [source 🔗](solutions/parking)                  |  [![py](images/python.png)]() |
 | [pebble_solitaire2](https://open.kattis.com/problems/pebblesolitaire2)                | [source 🔗](solutions/pebble_solitaire2)        |  [![py](images/python.png)]() |
+| [phone_list](https://open.kattis.com/problems/phonelist)                              | [source 🔗](solutions/phone_list)               |  [![cpp](images/cpp.png)]() [![py](images/python.png)]() |
 | [please_go_first](https://open.kattis.com/problems/pleasegofirst)                     | [source 🔗](solutions/please_go_first)          |  [![py](images/python.png)]() |
 | [prva](https://open.kattis.com/problems/prva)                                         | [source 🔗](solutions/prva)                     |  [![py](images/python.png)]() |
 | [relatives](https://open.kattis.com/problems/relatives)                               | [source 🔗](solutions/relatives)                |  [![cpp](images/cpp.png)]() |
