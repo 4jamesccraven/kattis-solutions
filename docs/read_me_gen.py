@@ -69,7 +69,8 @@ def images(directories: list[str]) -> list[str]:
 
 def main() -> None:
     problem_names = [file for file in os.listdir('solutions')
-                     if file != 'competition-spring2024']
+                     if  file != 'competition-spring2024'
+                     and file != 'icpc']
     problem_names.sort()
 
     problem_urls = [problem_url(file.replace('_', ''))
