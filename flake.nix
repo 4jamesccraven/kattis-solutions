@@ -10,7 +10,7 @@
   flake-utils.lib.eachDefaultSystem (system: let
     pkgs = import nixpkgs { inherit system; };
   in {
-    devShell = pkgs.mkShell {
+    devShells.docs = pkgs.mkShell {
       buildInputs = with pkgs.python312Packages; [
         pkgs.python312
         pip
@@ -20,6 +20,20 @@
 
       shellHook = ''
         PS1="(kattis)\n$PS1"
+      '';
+    };
+
+    devShells.default = pkgs.mkShell {
+      buildInputs = with pkgs; [
+        python312
+        cargo
+        rustc
+        libgcc
+        openjdk23
+      ];
+
+      shellHook = ''
+        clear; zsh; exit
       '';
     };
   });
