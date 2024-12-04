@@ -26,6 +26,7 @@ Problems
 | [different](https://open.kattis.com/problems/different)                               | [source 🔗](solutions/different)                |  [![rs](images/rust.png)]() |
 | [event_planning](https://open.kattis.com/problems/eventplanning)                      | [source 🔗](solutions/event_planning)           |  [![py](images/python.png)]() |
 | [false_security](https://open.kattis.com/problems/falsesecurity)                      | [source 🔗](solutions/false_security)           |  [![py](images/python.png)]() |
+| [fodelsedags_memorisering](https://open.kattis.com/problems/fodelsedagsmemorisering)  | [source 🔗](solutions/fodelsedags_memorisering) |  [![py](images/python.png)]() |
 | [genetic_search](https://open.kattis.com/problems/geneticsearch)                      | [source 🔗](solutions/genetic_search)           |  [![py](images/python.png)]() |
 | [grid](https://open.kattis.com/problems/grid)                                         | [source 🔗](solutions/grid)                     |  [![py](images/python.png)]() |
 | [image_processing](https://open.kattis.com/problems/imageprocessing)                  | [source 🔗](solutions/image_processing)         |  [![py](images/python.png)]() |
