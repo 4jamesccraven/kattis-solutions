@@ -23,6 +23,7 @@ Problems
 | [connect_the_dots](https://open.kattis.com/problems/connectthedots)                   | [source 🔗](solutions/connect_the_dots)         |  [![py](images/python.png)]() |
 | [conundrum](https://open.kattis.com/problems/conundrum)                               | [source 🔗](solutions/conundrum)                |  [![py](images/python.png)]() |
 | [conversation_log](https://open.kattis.com/problems/conversationlog)                  | [source 🔗](solutions/conversation_log)         |  [![py](images/python.png)]() |
+| [different](https://open.kattis.com/problems/different)                               | [source 🔗](solutions/different)                |  [![rs](images/rust.png)]() |
 | [event_planning](https://open.kattis.com/problems/eventplanning)                      | [source 🔗](solutions/event_planning)           |  [![py](images/python.png)]() |
 | [false_security](https://open.kattis.com/problems/falsesecurity)                      | [source 🔗](solutions/false_security)           |  [![py](images/python.png)]() |
 | [genetic_search](https://open.kattis.com/problems/geneticsearch)                      | [source 🔗](solutions/genetic_search)           |  [![py](images/python.png)]() |
