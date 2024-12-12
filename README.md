@@ -47,6 +47,7 @@ Problems
 | [simplicity](https://open.kattis.com/problems/simplicity)                             | [source 🔗](solutions/simplicity)               |  [![py](images/python.png)]() |
 | [sith](https://open.kattis.com/problems/sith)                                         | [source 🔗](solutions/sith)                     |  [![py](images/python.png)]() |
 | [soda_slurper](https://open.kattis.com/problems/sodaslurper)                          | [source 🔗](solutions/soda_slurper)             |  [![py](images/python.png)]() [![cpp](images/cpp.png)]() |
+| [takkar](https://open.kattis.com/problems/takkar)                                     | [source 🔗](solutions/takkar)                   |  [![py](images/python.png)]() [![rs](images/rust.png)]() |
 | [teacher_evaluation](https://open.kattis.com/problems/teacherevaluation)              | [source 🔗](solutions/teacher_evaluation)       |  [![rs](images/rust.png)]() |
 | [triangles_of_a_square](https://open.kattis.com/problems/trianglesofasquare)          | [source 🔗](solutions/triangles_of_a_square)    |  [![py](images/python.png)]() |
 | [welcome_sign](https://open.kattis.com/problems/welcomesign)                          | [source 🔗](solutions/welcome_sign)             |  [![py](images/python.png)]() |
